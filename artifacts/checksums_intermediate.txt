@@ -1,0 +1,1 @@
+51704d0695ee06f35bed8e249b72820f00f4970c8c53ad861cd77a686cba4067  ./target/wasm32-unknown-unknown/release/try1.wasm
